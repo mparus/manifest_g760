@@ -5,7 +5,7 @@
 
     <!-- G620s projects -->
     <project name="mparus/android_device_huawei_g760" path="device/huawei/g760" revision="master" />
-    <project name="CyanogenMod/android_kernel_huawei_msm8916" path="kernel/huawei/msm8916" revision="cm-12.1" />
+    <project name="mparus/android_kernel_huawei_msm8916" path="kernel/huawei/msm8916" revision="2f24fa58086a969687434b40f237cb589a1f324f" />
     <project name="mparus/android_vendor_huawei_g760" path="vendor/huawei/g760" revision="master" />
     <project name="mparus/android_device_qcom_common" path="device/qcom/common" revision="cm-12.1" />
 
