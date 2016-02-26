@@ -8,5 +8,5 @@
     <project name="mparus/android_kernel_huawei_msm8916_g760" path="kernel/huawei/msm8916" revision="master" />
     <project name="mparus/android_vendor_huawei_g760" path="vendor/huawei/g760" revision="master" />
     <project name="mparus/android_device_qcom_common" path="device/qcom/common" revision="cm-12.1" />
-
+    <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" />
 </manifest>
